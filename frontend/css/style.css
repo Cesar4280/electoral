@@ -1,0 +1,8 @@
+.banner > img {
+    height: 15rem;
+    object-fit: cover;
+}
+
+.banner h1 {
+    text-shadow: .12rem .12rem .12rem #000000;
+}
